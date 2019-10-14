@@ -1,0 +1,9 @@
+tensorflow
+numpy==1.16.4
+scipy
+opencv-python
+pillow
+matplotlib
+h5py
+keras
+imageai --upgrade
