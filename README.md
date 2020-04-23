@@ -1,1 +1,1 @@
-# 10388 Imageai Tutorial 
+Image classification project using ImageAI library
